@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 堕影之潮
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+欢迎来到我们的Homebrew D&D团！这里收录了玩家可见的重要信息。
