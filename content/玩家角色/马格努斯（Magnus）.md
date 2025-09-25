@@ -1,4 +1,4 @@
-![[Magnus.png]]
+![[_assets/Magnus.png]]
 
 > *至高之光的骑士团音乐家（前）*
 
