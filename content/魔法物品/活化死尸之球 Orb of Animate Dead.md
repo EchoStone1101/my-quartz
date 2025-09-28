@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 *奇物，罕见，需智力>=13同调*
 
